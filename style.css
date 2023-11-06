@@ -6,20 +6,20 @@ p{
 h1{
     color: aqua;
     text-align: center;
-    font-size: 55px;
+    font-size: 150px;
 }
 h2{
     color: gold;
-    text-align: center;
+    
     font-size: 55px;
 }
 h3{
     color: aquamarine;
-    text-align: center;
+    
     font-size: 55px;
 }
 title{
     color: dodgerblue;
-    text-align: center;
-    font-size: 150px;
+
+    font-size: 55px;
 }

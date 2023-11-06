@@ -5,10 +5,16 @@ p{
 }
 h1{
     color: aqua;
+    text-align: center;
+    font-size: 300px;
 }
 h2{
     color: gold;
+    text-align: center;
+    font-size: 300px;
 }
 h3{
     color: aquamarine;
+    text-align: center;
+    font-size: 300px;
 }

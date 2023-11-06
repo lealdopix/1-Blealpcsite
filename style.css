@@ -1,6 +1,5 @@
 p{
     color: blueviolet;
-    text-align: center;
     font-size: 55px;
 }
 h1{
@@ -10,16 +9,13 @@ h1{
 }
 h2{
     color: gold;
-    
     font-size: 55px;
 }
 h3{
     color: aquamarine;
-    
     font-size: 55px;
 }
 title{
     color: dodgerblue;
-
     font-size: 55px;
 }

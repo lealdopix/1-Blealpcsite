@@ -1,6 +1,13 @@
 p{
     color: blueviolet;
+    text-align: center;
 }
-h1 h2 h3{
-    color: coral;
+h1{
+    color: aqua;
+}
+h2{
+    color: gold;
+}
+h3{
+    color: aquamarine;
 }
